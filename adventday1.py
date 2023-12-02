@@ -54,7 +54,6 @@ def word_to_integer(word):
 def part_two(calibration_value):
     #calibration_value = ["nineeight6mkvbfour6four","oneight"]
     string_substring = ["one","two","three","four", "five", "six", "seven", "eight","nine"]
-    num_substring = ["1","2","3","4","5","6","7","8","9"]
     total = 0
 
     for x in calibration_value:
