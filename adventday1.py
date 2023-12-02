@@ -1,4 +1,4 @@
-import pandas as pd 
+
 
 def txt_to_list_converter(document_path):
     """
