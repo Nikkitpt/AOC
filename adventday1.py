@@ -2,7 +2,7 @@
 
 def txt_to_list_converter(document_path):
     """
-    takes google doc and converts to string
+    takes txt and converts to string
     """
     with open(document_path, 'r') as file:
         lines = file.readlines()
